@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" 
-            href="styles.css">
-    <script type="text/javascript" 
-            src="script.js"></script>
-  </head>
-  
+function hello () {
+    alert("hello, world")
+}
